@@ -1,4 +1,4 @@
-# javascript_applications
-Different mini projects using JavaScript, HTML, and CSS
+# JavaScript Applications
+Different mini projects using only JavaScript, HTML, and CSS
 
-For each project just open index.html file in the browser
+For each project just open the index.html file in the browser.
